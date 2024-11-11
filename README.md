@@ -1,4 +1,4 @@
-# Ex.06 Book Front Cover Page Design
+# Ex.05 Book Front Cover Page Design
 ## Date: 17.10.24
 
 ## AIM:
@@ -198,7 +198,7 @@ REG NO : 212223240185
 
 ## OUTPUT:
 
-![WhatsApp Image 2024-10-17 at 23 39 00_cac99bc8](https://github.com/user-attachments/assets/2792e6e7-906f-43fb-a3cc-43e0ebb36845)
+![Screenshot 2024-11-11 083801](https://github.com/user-attachments/assets/48ea32a9-5b64-4da4-9eaf-f121c14cb09f)
 
 
 ## RESULT:
